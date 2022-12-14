@@ -7,4 +7,4 @@
   * Adding Major Earthquake Data.
   * Adding an Additional Map.
 #### Results
-     ![image](https://user-images.githubusercontent.com/64270455/198812520-d809c611-a1d4-4af3-b5ee-af4ffdf8f465.png)
+![image](https://user-images.githubusercontent.com/64270455/198812520-d809c611-a1d4-4af3-b5ee-af4ffdf8f465.png)
